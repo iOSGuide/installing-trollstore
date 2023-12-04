@@ -12,8 +12,7 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 
 | From                  | To                  | Install arm64 (A8 - A11)         | Install arm64e (A12 - A17 / M1 - M2)   |
 |-----------------------|---------------------|---------------------------------|---------------------------------------|
-| iOS 13.7 and earlier   | Unsupported TrollStore   - need this text in full 2 rows                    |
-|                       | Unsupported TrollStore   - need this text in full 2 rows                    |
+| iOS 13.7 and earlier   | Unsupported TrollStore <br> Unsupported TrollStore |                       |                                       |
 | iOS 14.0              | iOS 14.8.1          | Install TrollStore (TrollHelper) | Install TrollStore (TrollHelperOTA)    |
 | iOS 15.0              | iOS 15.5 beta 4     | Install TrollStore (TrollHelperOTA)   - need this text in full 2 rows                                      |
 |                       |                      |                                   |                                       |
@@ -26,10 +25,11 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 | iOS 16.5.1            | iOS 16.5.1          | Install TrollStore (TrollHelper)   | No Install Method                     |
 | iOS 16.6 beta 1       | iOS 16.6 beta 1     | Install TrollStore (TrollHelper)   | Install TrollStore (Misaka)           |
 | iOS 16.6 beta 2       | iOS 16.6.1          | Install TrollStore (TrollHelper)   | No Install Method                     |
-| iOS 16.7              | iOS 16.7.2          | Unsupported TrollStore   - need this text in full 2 rows                                                   |
-|                       | Unsupported TrollStore   - need this text in full 2 rows                                                   |
+| iOS 16.7              | iOS 16.7.2          | Unsupported TrollStore <br> Unsupported TrollStore  |                        |
+|                       |                      |                                   |                                       |
 | iOS 17.0              | iOS 17.0            | Install TrollStore (TrollHelper)   | No Install Method                     |
-| iOS 17.0.1 and later  | Unsupported TrollStore   - need this text in full 2 rows    |                          |
+| iOS 17.0.1 and later  | Unsupported TrollStore <br> Unsupported TrollStore |                          |
+
                                                                 
 
 ## Best TrollStore Compatible Apps for iOS
