@@ -8,27 +8,24 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 
 ## TrollStore and TrollStore 2 Install Methods 
 
-### Install Methods Table
-
-| From                  | To                  | Install arm64 (A8 - A11)         | Install arm64e (A12 - A17 / M1 - M2)   |
-|-----------------------|---------------------|---------------------------------|---------------------------------------|
-| iOS 13.7 and earlier   | Unsupported TrollStore <br> Unsupported TrollStore |                       |                                       |
-| iOS 14.0              | iOS 14.8.1          | Install TrollStore (TrollHelper) | Install TrollStore (TrollHelperOTA)    |
-| iOS 15.0              | iOS 15.5 beta 4     | Install TrollStore (TrollHelperOTA)   - need this text in full 2 rows                                      |
-|                       |                      |                                   |                                       |
-| iOS 15.6 beta 1       | iOS 15.6 beta 5     | Install TrollStore (TrollHelperOTA)    - need this text in full 2 rows                                    |
-|                       |                      |                                   |                                       |
-| iOS 15.7.2            | iOS 15.7.2          | Install TrollStore (TrollHelper)   | TrollStore Coming Soon                 |
-| iOS 15.7.3            | iOS 15.8            | Install TrollStore (TrollHelper)   | Not Applicable                        |
-| iOS 16.0              | iOS 16.1.2          | Install TrollStore (TrollInstallerMDC) | Unsupported TrollStore    |
-| iOS 16.2              | iOS 16.5            | Install TrollStore (TrollHelper)   | Install TrollStore (Misaka)           |
-| iOS 16.5.1            | iOS 16.5.1          | Install TrollStore (TrollHelper)   | No Install Method                     |
-| iOS 16.6 beta 1       | iOS 16.6 beta 1     | Install TrollStore (TrollHelper)   | Install TrollStore (Misaka)           |
-| iOS 16.6 beta 2       | iOS 16.6.1          | Install TrollStore (TrollHelper)   | No Install Method                     |
-| iOS 16.7              | iOS 16.7.2          | Unsupported TrollStore <br> Unsupported TrollStore  |                        |
-|                       |                      |                                   |                                       |
-| iOS 17.0              | iOS 17.0            | Install TrollStore (TrollHelper)   | No Install Method                     |
-| iOS 17.0.1 and later  | Unsupported TrollStore <br> Unsupported TrollStore |                          |
+| From                  | To                  | arm64 (A8 - A11)                   | arm64e (A12 - A17 / M1 - M2)           |
+|-----------------------|---------------------|-----------------------------------|---------------------------------------|
+| 13.7 and earlier      | Unsupported        |                                   |                                       |
+| 14.0                  | 14.8.1              | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | [Installing TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
+| 15.0                  | 15.5 beta 4         | [Installing TrollStore (TrollHelperOTA)](/installing-trollhelperota) |                                       |
+| 15.5                  | 15.5                | [Installing TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) | [Installing TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
+| 15.6 beta 1           | 15.6 beta 5         | [Installing TrollStore (TrollHelperOTA)](/installing-trollhelperota) |                                       |
+| 15.6                  | 15.6.1              | [Installing TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) | [Installing TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
+| 15.7                  | 15.7.1              | [Installing TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) |                                       |
+| 15.7.2               | 15.7.2              | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | Coming Soon                            |
+| 15.7.3               | 15.8                | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | Not Applicable                        |
+| 16.0                  | 16.1.2              | [Installing TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) | Unsupported                            |
+| 16.2                  | 16.5                | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | [Installing TrollStore (Misaka)](/installing-trollhelper-misaka) |
+| 16.5.1               | 16.5.1              | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | No Installation Method                 |
+| 16.6 beta 1           | 16.6 beta 1         | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | [Installing TrollStore (Misaka)](/installing-trollhelper-misaka) |
+| 16.6 beta 2           | 16.6.1              | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | No Installation Method                 |
+| 16.7                  | 16.7.2              | Unsupported                          |                                       |
+| 17.0                  | 17.0                | [Installing TrollStore (TrollHelper)](/installing-trollhelper) | No Installation Method                 |
 
                                                                 
 
