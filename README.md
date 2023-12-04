@@ -2,17 +2,18 @@
 
 TrollStore 2 is a reliable and permanent IPA installer designed to support various iOS versions, including iOS 14.0, 15.0-16.6.1, and iOS 17.0. Functioning through AMFI/CoreTrust, it employs the root certificate for app signing, ensuring stability without revocation risks.
 
-*TrollStore is not a jailbreak tool. It utilizes a codesign bypass and additional exploits for the permanent signing of apps with necessary entitlements.
+*Note: TrollStore is not a jailbreak tool. It utilizes a codesign bypass and additional exploits for the permanent signing of apps with necessary entitlements.
 
 ## TrollStore and TrollStore 2 Install Method
 
-| From          | To                    | Install             | Install              |
-|---------------|-----------------------|---------------------|----------------------|
-| 13.7 and earlier | Unsupported          |                     |                      |
-| 14.0          | 14.8.1                | TrollStore (TrollHelper) | TrollStore (TrollHelperOTA) |
-| 15.0          | 15.5 beta 4           | TrollStore (TrollHelperOTA) |                      |
-| ...           | ...                   | ...                 | ...                  |
-| 17.0.1 and later | Unsupported         |                     |                      |
+| From             | To                   | Install                           | Install                           |
+|------------------|----------------------|-----------------------------------|-----------------------------------|
+| 1. 13.7 and earlier | Unsupported         |                                   |                                   |
+| 2. 14.0          | 14.8.1               | TrollStore (TrollHelper)           | TrollStore (TrollHelperOTA)        |
+| 3. 15.0          | 15.5 beta 4          | TrollStore (TrollHelperOTA)        |                                   |
+| 4. 15.5          | 15.5                 | TrollStore (TrollInstallerMDC)     | TrollStore (TrollHelperOTA)        |
+| ...              | ...                  | ...                               | ...                               |
+| 17. 17.0.1 and later | Unsupported      |                                   |                                   |
 
 ## Best TrollStore Compatible Apps for iOS
 
