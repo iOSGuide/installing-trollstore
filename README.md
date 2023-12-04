@@ -2,7 +2,7 @@
 
 TrollStore 2 is a reliable and permanent IPA installer designed to support various iOS versions, including iOS 14.0, 15.0-16.6.1, and iOS 17.0. Functioning through AMFI/CoreTrust, it employs the root certificate for app signing, ensuring stability without revocation risks.
 
-![Cover Image](link-to-cover-image.jpg)
+[![Cover Image](https://github.com/iOSGuide/installing-trollstore/blob/main/Install%20TrollStore%202%20Without%20Jailbreak.png)]
 
 **TrollStore is not a jailbreak tool. TrollStore 2 IPA Installer utilizes a codesign bypass and additional exploits for the permanent signing of apps with necessary entitlements.**
 
