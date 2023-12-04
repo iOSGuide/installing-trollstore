@@ -33,7 +33,7 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 
 The TrollsMe App is the ultimate TrollStore application, incorporating all TrollStore tools seamlessly into a single, comprehensive platform. Enjoy the convenience of having all TrollStore tools in one place.
 
-![TrollsMe App Icon](link-to-app-icon-image.jpg)
+![TrollsMe App Icon]([link-to-app-icon-image.jpg](https://github.com/iOSGuide/installing-trollstore/blob/main/TrollsMe%20TrollStore%20IPA%20Installer.png))
 
 [Download TrollsMe TrollStore](https://iospack.com/apps/trollsme-trollstore/)
 
