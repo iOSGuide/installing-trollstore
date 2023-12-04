@@ -14,7 +14,7 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 | iOS 14.0                  | iOS 14.8.1              | [Install TrollStore (TrollHelper)](/installing-trollhelper) | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
 | iOS 15.0                  | iOS 15.5 beta 4         | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |   [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota)                                    |
 | iOS 15.5                  | iOS 15.5                | [Install TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
-| iOS 15.6 beta 1           | iOS 15.6 beta 5         | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |                                       |
+| iOS 15.6 beta 1           | iOS 15.6 beta 5         | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |  [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota)                                     |
 | iOS 15.6                  | iOS 15.6.1              | [Install TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) | [Install TrollStore (TrollHelperOTA)](/installing-trollhelperota) |
 | iOS 15.7                  | iOS 15.7.1              | [Install TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc) |  [Install TrollStore (TrollInstallerMDC)](/installing-trollhelper-mdc)                                  |
 | iOS 15.7.2               | iOS 15.7.2              | [Install TrollStore (TrollHelper)](/installing-trollhelper) | Coming Soon                            |
