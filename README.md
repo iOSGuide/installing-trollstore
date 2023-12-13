@@ -64,6 +64,12 @@ TrollStore IPA Installer-installed applications can only be uninstalled through 
 2. Click on the application or swipe right in the Applications tab.
 3. Choose the "Uninstall TrollStore" option to remove the application seamlessly.
 
+## Install TrollStore Using Misaka for iOS 16.2 to 16.5 and 16.6 Beta 1
+
+Follow this TrollStore 2 installation guide for installing TrollStore 2 using Misaka on iOS versions 16.2 to 16.5, or 16.6 Beta 1. It is specifically designed for ARM64E devices (A12-A17 / M1 – M2).
+
+[Install TrollStore [Misaka] Full Guide](https://github.com/iOSGuide/installing-trollstore-misaka)
+
 ## Credits
 
 - **Lars Fröder (opa334):** Developer of TrollStore Jailed iOS app, enabling the installation of IPAs permanently with arbitrary entitlements and root helpers.
