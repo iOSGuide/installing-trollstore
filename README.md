@@ -6,6 +6,10 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 
 **TrollStore is not a jailbreak tool. TrollStore 2 IPA Installer utilizes a codesign bypass and additional exploits for the permanent signing of apps with necessary entitlements.**
 
+## TrollStore Finder Online
+Make sure your iPhone/iPad works with TrollStore and TrollStore 2 permanent IPA installers using the TrollStore Finder Online tool.
+
+[TrollStore Finder](https://iexmo.com/trollstore-finder/)
 
 ## TrollStore and TrollStore 2 Install Methods 
 
