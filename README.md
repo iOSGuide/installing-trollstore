@@ -22,6 +22,7 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 | iOS 15.7.3               | iOS 15.8                | [Install TrollStore (TrollHelper)](https://iexmo.com/trollstore-helper/) | Not Applicable                        |
 | iOS 16.0                  | iOS 16.1.2              | [Install TrollStore (TrollInstallerMDC)](https://iexmo.com/trollstore-helper/) | [Install TrollStore (TrollInstallerMDC)](https://iexmo.com/trollstore-helper/)                         |
 | iOS 16.2               | iOS 16.6.1                | [Install TrollStore (TrollStar)](https://github.com/iOSGuide/installing-trollstore-trollstar/) | [Install TrollStore (TrollStar)](https://github.com/iOSGuide/installing-trollstore-trollstar/) |
+| iOS 16.7 RC               | iOS 16.7 RC               | [Install TrollStore (TrollHelper)](https://iexmo.com/trollstore-helper/) | No Installation Method                        |
 | iOS 16.7                  | iOS 16.7.2              |           Unsupported                         |        Unsupported         |
 | iOS 17.0                  | iOS 17.0                | [Install TrollStore (TrollHelper)](https://iexmo.com/trollstore-helper/)) | No Installation Method                 |
 
