@@ -9,7 +9,7 @@ TrollStore 2 is a reliable and permanent IPA installer designed to support vario
 ## TrollStore Finder Online
 Make sure your iPhone/iPad works with TrollStore and TrollStore 2 permanent IPA installers using the TrollStore Finder Online tool.
 
-[TrollStore Finder](https://iexmo.com/trollstore-finder/)
+[🔍 TrollStore Finder](https://iexmo.com/trollstore-finder/)
 
 ## TrollStore and TrollStore 2 Install Methods 
 
