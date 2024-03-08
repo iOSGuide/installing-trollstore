@@ -85,3 +85,4 @@ Bootstra AI Jailbreak is a pioneering tool that introduces AI-powered jailbreak 
 - **Google Threat Analysis Group:** Discovered the CoreTrust bug as part of an in-the-wild spyware chain and responsibly reported it to Apple.
 - **LinusHenze:** Uncovered the installd bypass utilized for installing TrollStore on iOS 14-15.6.1 via TrollHelperOTA, along with the original CoreTrust bug employed in TrollStore 1.0.
 - **TrollsMe Developer Team:** Developers behind the TrollsMe App, the comprehensive TrollStore application embedding all TrollStore tools seamlessly.
+- **Bootstra AI Jailbreak Developer Team:**  Bootstra AI Jailbreak is developed by the BootstraAI Dev team, dedicated to shaping the future of jailbreaking.
