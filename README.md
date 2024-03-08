@@ -70,6 +70,13 @@ Follow this TrollStore 2 installation guide for installing [TrollStore 2 using M
 
 [Install TrollStore [Misaka] Full Guide](https://github.com/iOSGuide/installing-trollstore-misaka)
 
+## Bootstra AI Jailbreak for TrollStore 2
+
+Bootstra AI Jailbreak is a pioneering tool that introduces AI-powered jailbreak support for TrollStore and TrollStore 2 on iPhones and iPads. With Bootstra AI Jailbreak, iOS users can effortlessly enhance their devices with customizations, tweaks, themes, and apps. It supports iOS versions 14.0, 15.0-16.6.1, and iOS 17.4+. Experience the ultimate in personalization using the best AI jailbreak prompts. 
+
+![Bootstra AI Jailbreak for TrollStore 2](https://github.com/iOSGuide/installing-trollstore/blob/main/Bootstra%20AI%20Jailbreak%20for%20TrollStore%20and%20TrollStore%202.png)
+[Install Bootstra AI Jailbreak](https://github.com/BootstraAI/bootstra-ai)
+
 ## Credits
 
 - **Lars Fröder (opa334):** Developer of TrollStore Jailed iOS app, enabling the installation of IPAs permanently with arbitrary entitlements and root helpers.
